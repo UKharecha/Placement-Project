@@ -6,5 +6,4 @@
 
 1. Open cmd and type: `git clone https://github.com/UKharecha/Placement-Project.git`
 2. `cd .\Placement-Project` 
-3. `pip install -r requirements.txt`
-4. `jupyter notebook`
+3. Open `jupyter notebook`
